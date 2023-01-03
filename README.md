@@ -16,4 +16,4 @@ https://git-scm.com/download/win
 4. Open up the hello.py file, press F5 to run it, and then a terminal window will appear and the code will be executed.
 
 ## Pyramids!
-I've written a basic script to get you started on solving the pyramids problem here: https://open.kattis.com/problems/pyramids
+I've written a basic script to get you started on solving the pyramids problem. The problem description is here: https://open.kattis.com/problems/pyramids
