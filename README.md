@@ -15,3 +15,5 @@ https://git-scm.com/download/win
 3. Open VSCode and install the Microsoft Python extension. Restart VSCode and choose the Python 3.11.1 Interpreter you just installed
 4. Open up the hello.py file, press F5 to run it, and then a terminal window will appear and the code will be executed.
 
+## Pyramids!
+I've written a basic script to get you started on solving the pyramids problem here: https://open.kattis.com/problems/pyramids
